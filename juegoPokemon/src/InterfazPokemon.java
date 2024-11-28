@@ -1,4 +1,7 @@
 import java.util.Scanner;
+/**
+ * Interfaz del juego de pokemon
+ */
 public class InterfazPokemon {
     private Scanner teclado;
 

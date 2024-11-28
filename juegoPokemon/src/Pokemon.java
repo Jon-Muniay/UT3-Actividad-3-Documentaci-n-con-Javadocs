@@ -1,5 +1,9 @@
 public class Pokemon {
-    
+
+    /**
+     * Generar el pokemon rival y el del jugador
+     */
+
 
     private String nombre;
     private String tipo;
